@@ -1,2 +1,4 @@
 # Simple-git-project
-First git project
+My first git project
+
+
